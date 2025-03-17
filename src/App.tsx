@@ -9,7 +9,7 @@ function App(): React.JSX.Element {
                 UD CISC275 with React Hooks and TypeScript
             </header>
             <h1>My website</h1>
-            <p> Daniah Jones </p>
+            <p> Daniah Jones</p>
             <p>Hello World</p>
             Unordered List:
             <ul>
